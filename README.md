@@ -1,8 +1,8 @@
 # Automatic Clustering with Bioinspired Algorithms
 
-This project is a python implementation of bioinspired metaheuristcs adapted to the clustering task.
+This project is a python implementation of bioinspired metaheuristics adapted to the clustering task.
 
-The original paper of each metaheuritc is:
+The original paper of each metaheuristic is:
 
 <b> WOA: </b> Mirjalili, S; Lewis, A. The Whale Optimization Algorithm. Advances in Engineering Software,Vol. 95, 2016, p. 51–67.
 
